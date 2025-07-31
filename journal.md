@@ -12,7 +12,7 @@ The plan is to grind since i only have 9 days and I only have the knowledge and 
 <img width="882" height="682" alt="image" src="https://github.com/user-attachments/assets/1737615d-952a-476e-bb1a-b73eb748a35b" />
 
 ## Day 2 - July 24 2:00 pm 
-so today i'll do the led's. i wanted to have an led in every key so i added 104 leds... i did not know how to do this since it is my first time (very great time to make a BIG ahh keyboard and LED'S WHICH IDK HOW TO DO) So i requested guilded my friend to help and i added them in snake so yea. i did learn a lot from this because i didnt do it in the Hackpad. 
+so today i'll do the led's. i wanted to have an led in every key so i added 104 leds... i did not know how to do this since it is my first time (very great time to make a BIG ahh keyboard and LED'S WHICH IDK HOW TO DO) So i requested guilded my friend to help and i added them in snake so yea. i did learn a lot from this because i didnt do it in the Hackpad. connecting the vss to gnd and vdd to +5V made sence i just have to memorize that for future projects. Making the LED strip was kinda fun ngl becuase it was copying and pasting and fliping so. I thing i did like what i did was making them very spaced out so i cn actually read them which is very mindful to do when it i syour first itme doing it. In future projects i will make them closer, same with other things too.
 <img width="876" height="774" alt="image" src="https://github.com/user-attachments/assets/3032ab99-6ef7-4914-bd0a-f4ee1b493f90" />
 
 ## Day 3 - July 27 1 pm
