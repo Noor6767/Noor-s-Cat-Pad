@@ -24,7 +24,8 @@ L1 L2 L3
 L4 L5 L6   instead of doing the snake rule so then i changed it again so then i won't have a problem doing the wiring. 
 
 ## Day 5 - July 29 12 am
-So i have 660 wires to wire which is very nice because i have 2 days (i wanna get it finished by 31) So im just gonna grind. there acc isnt much to talk about i just sat and clicked for hours. So i added the ground pour first so ill be happy when the number goes down (giving myself hope:) ) i finsihed a lot acc. i did everything except the +5V and GND and the rasberry pi which is all for tmrw cuz i am too tired and sleepy 
+So i have 660 wires to wire which is very nice because i have 2 days (i wanna get it finished by 31) So im just gonna grind. there acc isnt much to talk about i just sat and clicked for hours. So i added the ground pour first so ill be happy when the number goes down (giving myself hope:) ) i finsihed a lot acc. i did everything except the +5V and GND and the rasberry pi and now i have like 290 wires left. so this is all for tmrw cuz i am too tired and sleepy 
 
 ## Day 6 - July 30 2 pm
 Im gonna to the rest of the wiring and the 3-D printing and ill do the coding tmrw and submit. So the wiring was also very easy it was just that i have no room and had to make a very un organized place but its fine because who is looking (lmao u guys are looking hah) 
+<img width="1113" height="318" alt="image" src="https://github.com/user-attachments/assets/0e4958b1-4536-4d52-af45-275bfb02279d" />
