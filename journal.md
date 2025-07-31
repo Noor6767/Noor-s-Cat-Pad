@@ -26,8 +26,15 @@ L4 L5 L6   instead of doing the snake rule so then i changed it again so then i 
 <img width="1120" height="319" alt="image" src="https://github.com/user-attachments/assets/063a29e8-d53a-48ff-bdee-7c26abc6d7dc" />
 
 ## Day 5 - July 29 8 am
-So i have 660 wires to wire which is very nice because i have 2 days (i wanna get it finished by 31) So im just gonna grind. there acc isnt much to talk about i just sat and clicked for hours. So i added the ground pour first so ill be happy when the number goes down (giving myself hope:) ) i finsihed a lot acc. i did everything except the +5V and GND and the rasberry pi and now i have like 290 wires left.  
+So i have 660 wires to wire which is very nice because i have 2 days (i wanna get it finished by 31) So im just gonna grind. there acc isnt much to talk about i just sat and clicked for hours. i finsihed a lot acc. i did the all the wiring within 5 hours which is good because after 30 min i'll add the ground pours and start the 3-d printing and coding. 
+<img width="1096" height="325" alt="image" src="https://github.com/user-attachments/assets/b5a788f3-8e58-4882-b025-ddec293fbdff" />
 
-## Day 5 - July 29 1 pm
-Im gonna to the rest of the wiring. So the wiring was also very easy it was just that i have no room and had to make a very un organized place but its fine because who is looking (lmao u guys are looking hah) 
+## Day 5 - July 29 1:30 pm
+im gonna do the groud purs which dont seem too hard and the to do the 3-D printing. i find 3-D printing easy so ill prob get that done within an hour maybe less. 
+so i added the ground pours and it was quite easy for the first time and yea. that took me like 15 min and the 3-D printing was very easy because it is very similar to the hackpad so i just followed the guide. i first did the bottom and the thing i did different than the guide is that i made the thickness of the sides 3 mm instead of 20 mm because it makes sence, i have much more keys and its gonna fill a rectangle but the hackpad wont so. 
 <img width="1113" height="318" alt="image" src="https://github.com/user-attachments/assets/0e4958b1-4536-4d52-af45-275bfb02279d" />
+this is the bottom of the case. again, i found this quite easy.
+<img width="1143" height="535" alt="image" src="https://github.com/user-attachments/assets/a9db599b-207d-4484-b1b2-26c0c007cf2c" />
+<img width="1399" height="436" alt="image" src="https://github.com/user-attachments/assets/3d17af52-dc6f-40d7-a18f-bbf1872204ec" />
+<img width="1349" height="380" alt="image" src="https://github.com/user-attachments/assets/1a575255-6446-498e-a2e8-ca403978ddcf" />
+<img width="906" height="514" alt="image" src="https://github.com/user-attachments/assets/712878ea-39cd-4faa-843c-6f4e4e0cc474" />
