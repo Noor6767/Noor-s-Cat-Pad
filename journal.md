@@ -1,4 +1,5 @@
 # Noor-s-Cat-Pad
+total time: ~11
 
 ## Day 1 - July 23 4:00 pm
 I really wanted to do this ever since i was doing my Hackpad but it got delayed since i procasinated it so im just gonna grind. 
