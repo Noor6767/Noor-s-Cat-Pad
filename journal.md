@@ -42,7 +42,8 @@ this is the bottom of the case. again, i found this quite easy.
 
 
 ## Day 6 - Aug 6 2 pm 
-So i submitted my project but it got rejected because it was too simple so i added some hexagons and extruded them out to make it more pretty i guess and i also made a logo so i added that on the top and the bootom. i also added the kalih key caps and a rotary encoder since i didnt do it at first and so i thought i would do it so it would get rejected again. that took me aybe 20 min since it was really just placing them again and again. i was also gonna make a built in kickstand but i deceided not to becasue i thought i might want to remove  it and then i wouldnt be able to, i just decide against that. 
+So i submitted my project but it got rejected because it was too simple so i added some hexagons and extruded them out to make it more pretty i guess and i also made a logo so i added that on the top and the bootom. i also added the kalih key caps and a rotary encoder since i didnt do it at first and so i thought i would do it so it would get rejected again. that took me aybe 20 min since it was really just placing them again and again. i was also gonna make a built in kickstand but i deceided not to becasue i thought i might want to remove  it and then i wouldnt be able to, i just decide against that. I then did my DRC and there were aroun 200 errors and most of them were dumb misakes but i fixed the ones that were needed to be fixed. again this is my first time fdoing this so i was expecting a lot of mistakes. 
  ![alt text](Assets/day6.png)
+ ![alt text](Assets/case1.png)
 
 
