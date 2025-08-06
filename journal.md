@@ -39,3 +39,10 @@ this is the bottom of the case. again, i found this quite easy.
 <img width="1399" height="436" alt="image" src="https://github.com/user-attachments/assets/3d17af52-dc6f-40d7-a18f-bbf1872204ec" />
 <img width="1349" height="380" alt="image" src="https://github.com/user-attachments/assets/1a575255-6446-498e-a2e8-ca403978ddcf" />
 <img width="906" height="514" alt="image" src="https://github.com/user-attachments/assets/712878ea-39cd-4faa-843c-6f4e4e0cc474" />
+
+
+## Day 6 - Aug 6 2 pm 
+So i submitted my project but it got rejected because it was too simple so i added some hexagons and extruded them out to make it more pretty i guess and i also made a logo so i added that on the top and the bootom. i also added the kalih key caps and a rotary encoder since i didnt do it at first and so i thought i would do it so it would get rejected again. that took me aybe 20 min since it was really just placing them again and again. i was also gonna make a built in kickstand but i deceided not to becasue i thought i might want to remove  it and then i wouldnt be able to, i just decide against that. 
+ ![alt text](Assets/day6.png)
+
+
