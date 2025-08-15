@@ -1,7 +1,7 @@
 # Noor-s-Cat-Pad
-total time: ~11
+total time: ~26
 
-## Day 1 - July 23 4:00 pm
+## Day 1 - July 23 4:00 pm ~2h
 I really wanted to do this ever since i was doing my Hackpad but it got delayed since i procasinated it so im just gonna grind. 
 In my final desing i want
 - a rotary encoder
@@ -12,25 +12,25 @@ The plan is to grind since i only have 9 days and I only have the knowledge and 
  -so this was very confusing since i didnt know where to even put the swites and diodes on the grid. i did mess up like 2 time so that was extreamly time consuming. i did the first column and then copied it in rows of 10 and 11 colums and deleted the ones i didnt need. i also added a rotary encoder since why not. So this shouldnt have taken me 30 min. It was becuase i didn't know that i had to add a diode and where so i got some help from a friend and he helped a lot.
 <img width="882" height="682" alt="image" src="https://github.com/user-attachments/assets/1737615d-952a-476e-bb1a-b73eb748a35b" />
 
-## Day 2 - July 24 2:00 pm 
+## Day 2 - July 24 2:00 pm ~1h
 so today i'll do the led's. i wanted to have an led in every key so i added 104 leds... i did not know how to do this since it is my first time (very great time to make a BIG ahh keyboard and LED'S WHICH IDK HOW TO DO) So i requested guilded my friend to help and i added them in snake so yea. i did learn a lot from this because i didnt do it in the Hackpad. connecting the vss to gnd and vdd to +5V made sence i just have to memorize that for future projects. Making the LED strip was kinda fun ngl becuase it was copying and pasting and fliping so. I thing i did like what i did was making them very spaced out so i cn actually read them which is very mindful to do when it i syour first itme doing it. In future projects i will make them closer, same with other things too.
 <img width="876" height="774" alt="image" src="https://github.com/user-attachments/assets/3032ab99-6ef7-4914-bd0a-f4ee1b493f90" />
 
-## Day 3 - July 27 1 pm
+## Day 3 - July 27 1 pm ~4h
 Ngl after finishing the schematic I was kinda burned out cuz i had other work too and needed a break. I also went to the beach 😊😊🏖️ I was also informied that this ends on july 31 AND NO ONE TOLD ME. So now i acc have to grind. So now i have to place all the keys and I made a huge mistake. so apparently i am supposed to put it like how i have it on my schematics (which makes sence) and i had to redo it all that took ALL DAY and imm still not done :( . so I went on Keyboard Layout Editor and went on the one i wanted and so i had to get it PERFECT and i had an issue with my grid and my switches wearnt alighing and that was a big problem. but after 30 min i got the hang of it and it all made sence. It turns out, there was a problum with te origen points of the switches and I needed to go tot the footprit editor to change the orgin point of all switches to one point. This and fixing the grid to the proper one (2.3813), it works.
 <img width="559" height="490" alt="image" src="https://github.com/user-attachments/assets/e6156409-b263-4021-a271-b54e1c77e6b8" />
 
-## Day 4 - July 28 - 10 am
+## Day 4 - July 28 - 10 am ~6h
 So im just gonna work all day with 3 potty breaks. so i finnished placing all of them and now went to place all the diodes and the LED's. So when i tell you i really hate doing this(not rlly i love it) because WHY DID I HAVE TO REDO LIKE 3 TIMES. 😡😡 to explain the hatred (jk it love in another form ❤️💘💘) So i was placing the diodes with the LED's which was the most confusing thing. like idk why i did it. so i woould get for example Diode1 and the LED1 and put them on SW1 and do that on like everyone so the all the numbers would be the same. (idk why i thought that) i relized when i got to the space bar that i would need more leds here. So i then consulted my friend and he said to to do it in snake method. so i then i was doing it like 
 L1 L2 L3 
 L4 L5 L6   instead of doing the snake rule so then i changed it again so then i won't have a problem doing the wiring. 
 <img width="1120" height="319" alt="image" src="https://github.com/user-attachments/assets/063a29e8-d53a-48ff-bdee-7c26abc6d7dc" />
 
-## Day 5 - July 29 8 am
+## Day 5 - July 29 8 am ~6h
 So i have 660 wires to wire which is very nice because i have 2 days (i wanna get it finished by 31) So im just gonna grind. there acc isnt much to talk about i just sat and clicked for hours. i finsihed a lot acc. i did the all the wiring within 5 hours which is good because after 30 min i'll add the ground pours and start the 3-d printing and coding. 
 <img width="1096" height="325" alt="image" src="https://github.com/user-attachments/assets/b5a788f3-8e58-4882-b025-ddec293fbdff" />
 
-## Day 5 - July 29 1:30 pm
+## Day 5 - July 29 1:30 pm ~4h
 im gonna do the groud purs which dont seem too hard and the to do the 3-D printing. i find 3-D printing easy so ill prob get that done within an hour maybe less. 
 so i added the ground pours and it was quite easy for the first time and yea. that took me like 15 min and the 3-D printing was very easy because it is very similar to the hackpad so i just followed the guide. i first did the bottom and the thing i did different than the guide is that i made the thickness of the sides 3 mm instead of 20 mm because it makes sence, i have much more keys and its gonna fill a rectangle but the hackpad wont so. 
 <img width="1113" height="318" alt="image" src="https://github.com/user-attachments/assets/0e4958b1-4536-4d52-af45-275bfb02279d" />
@@ -41,8 +41,8 @@ this is the bottom of the case. again, i found this quite easy.
 <img width="906" height="514" alt="image" src="https://github.com/user-attachments/assets/712878ea-39cd-4faa-843c-6f4e4e0cc474" />
 
 
-## Day 6 - Aug 6 2 pm 
-So i submitted my project but it got rejected because it was too simple so i added some hexagons and extruded them out to make it more pretty i guess and i also made a logo so i added that on the top and the bootom. i also added the kalih key caps and a rotary encoder since i didnt do it at first and so i thought i would do it so it would get rejected again. that took me aybe 20 min since it was really just placing them again and again. i was also gonna make a built in kickstand but i deceided not to becasue i thought i might want to remove  it and then i wouldnt be able to, i just decide against that. I then did my DRC and there were aroun 200 errors and most of them were dumb misakes but i fixed the ones that were needed to be fixed. again this is my first time fdoing this so i was expecting a lot of mistakes. I also added new things to teh case like a infinaty logo for where the rotery encoder is and some word art and some line decals on the bottem.
+## Day 6 - Aug 6 2 pm ~3h
+So i submitted my project but it got rejected because it was too simple so i added some hexagons and extruded them out to make it more pretty i guess and i also made a logo so i added that on the top and the bootom. i also added the kalih key caps and a rotary encoder since i didnt do it at first and so i thought i would do it so it would get rejected again. that took me aybe 20 min since it was really just placing them again and again. i was also gonna make a built in kickstand but i deceided not to becasue i thought i might want to remove  it and then i wouldnt be able to, i just decide against that. I then did my DRC and there were aroun 200 errors and most of them were dumb misakes but i fixed the ones that were needed to be fixed. again this is my first time fdoing this so i was expecting a lot of mistakes. I also added new things to the case, like an infinity logo for where the rotary encoder is and some word art and some line decals on the bottom. So for more info about the decals, I added an infinity shape on the top right corner of the top place to cover the chip and make a convenient hole for the rotary encoder. I then added some word art in the space above the arrow keys. Also, thanks to Kai and Taran for pointing out some stuff I could improve.
  ![alt text](Assets/day6.png)
  ![alt text](Assets/case1.png)
 
