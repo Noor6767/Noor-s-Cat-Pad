@@ -26,7 +26,6 @@ After having a boring ahh keyboard that came with my computer, I needed a new on
 | PCB          | 46.11      | N/A            | JCBPCB Kalih Hotswap        |  |
 | kalih Hotswap | 17.99      | N/A            | 106                         | https://www.aliexpress.com/item/1005002653433091.html |
 | Stabilizers  | 1.62       | 1 set          |                             | https://www.aliexpress.com/item/1005009141481219.html |
-| Rubber Pads  | 5.00       | N/A            | Local Dollarama             |  |
 
 | Total CAD |
 | ------ |
