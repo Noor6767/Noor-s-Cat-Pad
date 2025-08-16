@@ -1,6 +1,5 @@
 # Noor-s-Cat-Pad
-total time: ~26
-
+## **total time: ~27**
 ## Day 1 - July 23 4:00 pm ~2h
 I really wanted to do this ever since i was doing my Hackpad but it got delayed since i procasinated it so im just gonna grind. 
 In my final desing i want
@@ -46,7 +45,5 @@ So i submitted my project but it got rejected because it was too simple so i add
  ![alt text](Assets/day6.png)
  ![alt text](Assets/case1.png)
 
-
-
-
-
+## Day 7 August 15/16- 1 hour 
+Small changes like removing the usb cable from the bom, changing the journal to fit the requirements. 
